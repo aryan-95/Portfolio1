@@ -156,9 +156,8 @@ const Hero = () => {
                   {/* Photo frame */}
                   <div className="relative bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-3xl p-6 shadow-2xl">
                     <div className="relative w-full aspect-[4/5] rounded-2xl overflow-hidden">
-                      <img
-                        src="image.jpg"
-                        alt="Aryan - Full Stack Developer"
+                      <img src="/myimage.jpg"
+                        alt="hero"
                         className="w-full h-full object-cover transform hover:scale-110 transition-transform duration-700"
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-slate-900/20 to-transparent"></div>
