@@ -157,7 +157,7 @@ const Hero = () => {
                   <div className="relative bg-slate-800/50 backdrop-blur-sm border border-slate-700 rounded-3xl p-6 shadow-2xl">
                     <div className="relative w-full aspect-[4/5] rounded-2xl overflow-hidden">
                       <img
-                        src="/attached_assets/image aryan_1751703335583.jpg"
+                        src="/public/image.jpg"
                         alt="Aryan - Full Stack Developer"
                         className="w-full h-full object-cover transform hover:scale-110 transition-transform duration-700"
                       />
